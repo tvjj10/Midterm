@@ -51,7 +51,7 @@ aside > div{
 
 aside > div > ul{
     display:inline-block;
-    outline: solid 2px #000000;
+    outline: solid 1px #000000;
     border-radius: .4em;
     margin: 1em .5em 1em;
 }
